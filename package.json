@@ -7,7 +7,7 @@
   "main": "src/index.js",
   "dependencies": {
     "react": "16.4.1",
-    "react-dom": "16.4.1",
+    "react-dom": "16.4.2",
     "react-rnd": "10.0.0",
     "react-scripts": "1.1.0",
     "react-simple-tree-menu": "^1.1.15"
